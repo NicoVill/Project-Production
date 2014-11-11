@@ -15,6 +15,7 @@ namespace ObjectAssignment
 
         public void AddNewToDoItem(string shortDescription, string longDescription, DateTime itemDeadline, string firstTaskDescription)
         {
+            //Method that is actually used to create a new Item (used in the program.cs)
             string shortdes = shortDescription;
             string longdes = longDescription;
             DateTime deadline = itemDeadline;
