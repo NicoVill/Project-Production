@@ -21,6 +21,7 @@ namespace ObjectAssignment
 
         public void MarkAsFinished()
         {
+            //Marks when the task is finished using the DateTime variable
             finishedTimestamp = DateTime.Now;
         }
 
