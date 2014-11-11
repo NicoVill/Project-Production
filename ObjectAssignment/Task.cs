@@ -7,6 +7,7 @@ namespace ObjectAssignment
 {
     public class Task
     {
+        //Declare the variables that is used in the class
         DateTime finishedTimestamp;
         string des;
         public Task(string description)

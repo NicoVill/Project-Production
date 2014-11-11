@@ -5,6 +5,7 @@ namespace ObjectAssignment
 {
     public class Controller
     {
+        //Declare the list that contains the items
         List<ToDoItem> _items;
 
         public Controller()
